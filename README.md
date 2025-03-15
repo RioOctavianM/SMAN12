@@ -1,2 +1,2 @@
-# SMAN12
-Website
+# README
+Website SMAN 12 Surabaya 
